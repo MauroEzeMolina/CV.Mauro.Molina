@@ -1,0 +1,18 @@
+body{
+    background-color:#cca6fde5
+ }
+h1{
+    font-family:'Times New Roman', serif;
+}
+img{
+    width:150px;
+    height:180px;
+    float: right;
+}
+ul{
+    font-family: cursive
+}
+
+p{
+  font-family:cursive;
+}
